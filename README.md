@@ -2,6 +2,9 @@
 https://github.com/hvngover/asssingmnet5/assets/109821023/23f1283e-9894-4e82-8caf-7c8b970975e1
 
 
+https://www.youtube.com/watch?v=<VIDEO ID>
+https://youtu.be/<[VIDEO URL](https://www.youtube.com/watch?v=fFK7SW7HhxM&ab_channel=𝗙𝗧𝗰𝗹𝗶𝗽)>
+
 # BinarySearchTree
 
 
@@ -125,6 +128,8 @@ private int calculateSize(Node node) {
 ## Usage
 
 ```java 
+
+// Add some key-value pairs to the hash table
 bst.put(23, "Michael Jordan");
 bst.put(24, "Kobe Bryant");
 bst.put(3, "Allen Iverson");
