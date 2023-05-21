@@ -124,6 +124,12 @@ private int calculateSize(Node node) {
 
 ## Usage
 
+This code demonstrates the usage of the **BST** class. It creates a BST object with keys of type **String** and values of type Integer. Key-value pairs are inserted into the tree using the **```put()```** method. The size of the tree is then printed using the **```size()```** method.
+
+Next, the code iterates over the key-value pairs in the BST using a for-each loop and prints each key-value pair. It also checks if the tree contains a specific value using the **```containsValue()```** method.
+
+After that, a key-value pair is deleted from the tree using the **```delete()```** method. The key to delete is specified by the variable keyToDelete. The code then prints all the key-value pairs again to verify the deletion.
+
 ```java 
 
 // Add some key-value pairs to the hash table
@@ -134,6 +140,8 @@ bst.put(3, "Allen Iverson");
 ```
 
 ### Output
+
+The output of this code will show the size of the tree, the original key-value pairs, whether the tree contains a specific value, the deleted key, and the updated key-value pairs after deletion.
 
 ```java
 BST size: 3
