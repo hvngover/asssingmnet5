@@ -1,4 +1,10 @@
+
+https://github.com/hvngover/asssingmnet5/assets/109821023/23f1283e-9894-4e82-8caf-7c8b970975e1
+
+
 # BinarySearchTree
+
+
 
 ## Methods
 
@@ -118,6 +124,32 @@ private int calculateSize(Node node) {
 
 ## Usage
 
-[![Alt Text](https://i.gifer.com/SV99.gif)](https://i.gifer.com/SV99.mp4)
+```java 
+bst.put(23, "Michael Jordan");
+bst.put(24, "Kobe Bryant");
+bst.put(3, "Allen Iverson");
+
+```
+
+### Output
+
+```java
+BST size: 3
+Iterating over the BST:
+Key: 3, Value: Allen Iverson
+Key: 23, Value: Michael Jordan
+Key: 24, Value: Kobe Bryant
+BST contains value 'Michael Jordan': true
+Deleted key 24
+Iterating over the updated BST:
+Key: 3, Value: Allen Iverson
+Key: 23, Value: Michael Jordan
+```
+
+
+
+
+
+
 
 
